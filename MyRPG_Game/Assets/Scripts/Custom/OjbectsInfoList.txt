@@ -1,0 +1,3 @@
+1001,小瓶药水,icon-potion1,Drug,50,0,50,60
+1002,大瓶药水,icon-potion2,Drug,100,0,70,100
+1003,蓝药,icon-potion3,Drug,0,100,60,80

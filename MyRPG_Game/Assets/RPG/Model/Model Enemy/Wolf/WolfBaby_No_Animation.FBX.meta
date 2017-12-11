@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: ccdc8f5876456bb429b4c5e19e23eafa
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Jaw
+    100002: Bone_L_Ear
+    100004: Bone_L_Foot
+    100006: Bone_L_Toe1
+    100008: Bone_L_Toe1_1
+    100010: Bone_L_Toe2
+    100012: Bone_L_Toe2_1
+    100014: Bone_L_Toe3
+    100016: Bone_L_Toe3_1
+    100018: Bone_Mouse
+    100020: Bone_Nose
+    100022: Bone_R_Ear
+    100024: Bone_R_Foot
+    100026: Bone_R_Toe1
+    100028: Bone_R_Toe1_1
+    100030: Bone_R_Toe2
+    100032: Bone_R_Toe2_1
+    100034: Bone_R_Toe3
+    100036: Bone_R_Toe3_1
+    100038: Bone_Root
+    100040: Bone_Tail1
+    100042: Bone_Tail2
+    100044: Bone_Tail3
+    100046: Bone_Tail4
+    100048: Boneconnect_Jaw
+    100050: Boneconnect_L_Ear
+    100052: Boneconnect_L_Foot
+    100054: Boneconnect_Nose
+    100056: Boneconnect_R_Ear
+    100058: Boneconnect_R_Foot
+    100060: Boneconnect_Tail
+    100062: Wolf_Baby
+    100064: //RootNode
+    400000: Bone_Jaw
+    400002: Bone_L_Ear
+    400004: Bone_L_Foot
+    400006: Bone_L_Toe1
+    400008: Bone_L_Toe1_1
+    400010: Bone_L_Toe2
+    400012: Bone_L_Toe2_1
+    400014: Bone_L_Toe3
+    400016: Bone_L_Toe3_1
+    400018: Bone_Mouse
+    400020: Bone_Nose
+    400022: Bone_R_Ear
+    400024: Bone_R_Foot
+    400026: Bone_R_Toe1
+    400028: Bone_R_Toe1_1
+    400030: Bone_R_Toe2
+    400032: Bone_R_Toe2_1
+    400034: Bone_R_Toe3
+    400036: Bone_R_Toe3_1
+    400038: Bone_Root
+    400040: Bone_Tail1
+    400042: Bone_Tail2
+    400044: Bone_Tail3
+    400046: Bone_Tail4
+    400048: Boneconnect_Jaw
+    400050: Boneconnect_L_Ear
+    400052: Boneconnect_L_Foot
+    400054: Boneconnect_Nose
+    400056: Boneconnect_R_Ear
+    400058: Boneconnect_R_Foot
+    400060: Boneconnect_Tail
+    400062: Wolf_Baby
+    400064: //RootNode
+    4300000: Wolf_Baby
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Wolf_Baby
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

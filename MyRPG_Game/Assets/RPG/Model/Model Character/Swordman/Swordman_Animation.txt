@@ -1,0 +1,12 @@
+Idle			0-60
+Walk			110-150
+Run			200-224
+Attack1			280-309
+Attack2			360-390
+AttackCritical		450-474
+TakeDamage1		530-547
+TakeDamage2		600-613
+Death			660-694
+Cast			765-805
+Skill1Buff		880-910
+Skill2Swing		960-985
